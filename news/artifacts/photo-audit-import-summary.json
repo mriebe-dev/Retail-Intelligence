@@ -1,0 +1,17 @@
+{
+  "audit_lines": 17916,
+  "candidates": 12516,
+  "updated": 12516,
+  "skippedExisting": 15,
+  "unmatched": 0,
+  "errors": 0,
+  "total": {
+    "total": 18452,
+    "with_photo": "13767"
+  },
+  "cpp": {
+    "total": 13143,
+    "with_photo": "12505"
+  },
+  "finished_at": "2026-10-18T09:47:51.907Z"
+}

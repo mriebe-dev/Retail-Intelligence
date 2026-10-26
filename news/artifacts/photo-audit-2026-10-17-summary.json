@@ -1,0 +1,9 @@
+{
+  "total": 17916,
+  "completed": 17916,
+  "found": 12516,
+  "existing": 1011,
+  "errors": 1140,
+  "output": "/home/ubuntu/photo-audit-2026-10-17.jsonl",
+  "finished_at": "2026-10-17T23:04:15.774Z"
+}

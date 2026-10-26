@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-08-29T16:40:27.021Z",
+  "total_records": 18396,
+  "portal_news_records": 18088,
+  "portal_store_records": 346,
+  "fashionunited_records_added": 0,
+  "records_with_gps": 6108,
+  "records_with_photo_reference": 1011,
+  "records_with_gps_and_photo_reference": 413,
+  "records_with_exact_address": 757,
+  "caveat": "Foto-Referenzen umfassen Datenbank- und Quell-URLs. Bereits lokal gesicherte Google-Places-Fotodateien werden nicht künstlich einzelnen News zugeordnet, wenn keine belastbare Referenz im Datensatz vorhanden ist."
+}

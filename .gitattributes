@@ -1,1 +1,2 @@
 media/objects/* filter=lfs diff=lfs merge=lfs -text
+news/photos/**/* filter=lfs diff=lfs merge=lfs -text

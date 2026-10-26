@@ -1,0 +1,1642 @@
+{
+  "format": "shop-opening-news-github-index/v1",
+  "sourceTask": "Shop Opening News",
+  "artifactCount": 204,
+  "repositoryFiles": 202,
+  "releaseAssets": 2,
+  "totalBytes": 1731570473,
+  "rows": [
+    {
+      "file": "OPENING_MOMENTUM_TRUST.md",
+      "repoPath": "news/artifacts/OPENING_MOMENTUM_TRUST.md",
+      "type": "md",
+      "bytes": 3003,
+      "sha256": "46f11efd95ada5443f41ff02f1ff803d4d0e0980d4660c31c6ced2677ddbc23f",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "brand_mix.html",
+      "repoPath": "news/artifacts/brand_mix.html",
+      "type": "html",
+      "bytes": 3772,
+      "sha256": "8609676320a6bfcd46befdf4f295565d32bce932723775d526aaa3a908b5e54f",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "closing.html",
+      "repoPath": "news/artifacts/closing.html",
+      "type": "html",
+      "bytes": 3249,
+      "sha256": "375bd686dc8ffa7e807c0dffba282ea2b5f32dcc9cec131d989c55e923c6bca7",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "cover.html",
+      "repoPath": "news/artifacts/cover.html",
+      "type": "html",
+      "bytes": 2068,
+      "sha256": "499f7175823eb6faa3c87d89b30db0eab3490a5c750e8eeb1df0375a57f58d11",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "cpp-luxury.com_luxury-store-openings-to-increase-globally-in-2025_.md",
+      "repoPath": "news/artifacts/cpp-luxury.com_luxury-store-openings-to-increase-globally-in-2025_.md",
+      "type": "md",
+      "bytes": 5206,
+      "sha256": "ee6c8890194eeff9705944d4816ecaeb47ef61d187e69b86283abdd5820138de",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "data_quality.html",
+      "repoPath": "news/artifacts/data_quality.html",
+      "type": "html",
+      "bytes": 4250,
+      "sha256": "cb3e160f6e3bc09aaa0fb65bf6fd0308139a7ebb701fdc5ec751d0a4333c26d9",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "digital.cushmanwakefield.com_retailradar-09-2026-emea-regional-en-content-retail__j_803596_sfmc_sub_.md",
+      "repoPath": "news/artifacts/digital.cushmanwakefield.com_retailradar-09-2026-emea-regional-en-content-retail__j_803596_sfmc_sub_.md",
+      "type": "md",
+      "bytes": 545,
+      "sha256": "cf2a479c24cc1d061b074e285f8fa230c633f22ba936c89a51f0e4cf3d3b383b",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "digital_cushmanwakefield_com_retailradar-09-2026-emea-regional-en-content-retail_1790846397929.html",
+      "repoPath": "news/artifacts/digital_cushmanwakefield_com_retailradar-09-2026-emea-regional-en-content-retail_1790846397929.html",
+      "type": "html",
+      "bytes": 158708,
+      "sha256": "aff970a1d8f09e9c5301d872e01c0824cc72052739b5e3e93515cfb3b156f5fd",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "executive_summary.html",
+      "repoPath": "news/artifacts/executive_summary.html",
+      "type": "html",
+      "bytes": 3191,
+      "sha256": "8b3c239bfd574ec7b4edc6f28a3c8cb614b5a1913e12228192513aeeae2883e3",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "fashionunited-store-openings-2016-2026.zip",
+      "repoPath": "news/artifacts/fashionunited-store-openings-2016-2026.zip",
+      "type": "zip",
+      "bytes": 12062413,
+      "sha256": "354884a46034935770f1111cccbeabb0048126e8f6dc35e238a94ed37322ba85",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "global-luxury-monitoring-COMPLETE-WITH-CPP-LUXURY-20260620-064719.zip",
+      "repoPath": "news/artifacts/global-luxury-monitoring-COMPLETE-WITH-CPP-LUXURY-20260620-064719.zip",
+      "type": "zip",
+      "bytes": 2445400,
+      "sha256": "4e4f4f7dbb6093ead24255dae71a6cb02759b0aafa16533f4d4278c219020900",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "global-store-opening-news-after-2026-08-29.csv",
+      "repoPath": "news/artifacts/global-store-opening-news-after-2026-08-29.csv",
+      "type": "csv",
+      "bytes": 142314,
+      "sha256": "3763caf7b97c2bb99cc938b3dbc2c95dc478ec7e13c10d7906793e39ce82bed3",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "global-store-opening-news-after-2026-08-29.json",
+      "repoPath": "news/artifacts/global-store-opening-news-after-2026-08-29.json",
+      "type": "json",
+      "bytes": 289386,
+      "sha256": "68dd1e50b51070009fe3063dd39e30557fd4277f3a0bef9be7855aa1723ffdeb",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "global-store-opening-news-after-2026-08-29.xlsx",
+      "repoPath": "news/artifacts/global-store-opening-news-after-2026-08-29.xlsx",
+      "type": "xlsx",
+      "bytes": 57943,
+      "sha256": "31cf383242b0d256e1a49045c8a27e0de59a7257a343405c7140f2bc6076ce2e",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "global-store-openings-since-2026-10-18.csv",
+      "repoPath": "news/artifacts/global-store-openings-since-2026-10-18.csv",
+      "type": "csv",
+      "bytes": 6073,
+      "sha256": "3f2dea1292ca431cc2c0cf4ea7623869f781834bb2333030683f8c2822283c44",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "global-store-openings-since-2026-10-18.json",
+      "repoPath": "news/artifacts/global-store-openings-since-2026-10-18.json",
+      "type": "json",
+      "bytes": 8617,
+      "sha256": "1cbe7e9e29c23a8249d3ddbee4aa4a2d7be880c6f65cf603bc1249116594a9cc",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "luxe.outlookindia.com_fashion-beauty_couture_luxury-shopping-5-new-designer-store-openings-on-our-ra.md",
+      "repoPath": "news/artifacts/luxe.outlookindia.com_fashion-beauty_couture_luxury-shopping-5-new-designer-store-openings-on-our-ra.md",
+      "type": "md",
+      "bytes": 8703,
+      "sha256": "fc15f25ebadbb7b10f32699fdcfa702d91660705251f5e78574cb0368392681e",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "manifest.json",
+      "repoPath": "news/artifacts/manifest.json",
+      "type": "json",
+      "bytes": 981,
+      "sha256": "b6e76997806da6100fbaaaa4d91b305ea6038abcebe5f3755a6822a386d1773d",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "market_map.html",
+      "repoPath": "news/artifacts/market_map.html",
+      "type": "html",
+      "bytes": 3841,
+      "sha256": "8ed03102036a819044ecbea7881cf1b2ee9bc5f105a1acf8dadf6689053fa8a6",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "photo-audit-2026-10-17-summary.json",
+      "repoPath": "news/artifacts/photo-audit-2026-10-17-summary.json",
+      "type": "json",
+      "bytes": 200,
+      "sha256": "bf54dd1617784d3558eece5a3af68595e4c2843a75be5845e4a57ba385597df7",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "photo-audit-2026-10-17.jsonl",
+      "repoPath": "news/artifacts/photo-audit-2026-10-17.jsonl",
+      "type": "jsonl",
+      "bytes": 6749852,
+      "sha256": "b8261a4bde73e4489579d7a1ca6b177a8e5f62b0b5d53b3ac39b19e18b579400",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "photo-audit-import-summary.json",
+      "repoPath": "news/artifacts/photo-audit-import-summary.json",
+      "type": "json",
+      "bytes": 298,
+      "sha256": "109cc6afe3f88b77c02fcd9e02c763edcaa834ad25e475bcf7a61b564980aa54",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "photo_manifest.json",
+      "repoPath": "news/artifacts/photo_manifest.json",
+      "type": "json",
+      "bytes": 108120,
+      "sha256": "9c306e8d33748d652398216e5bd99a8dbeb0958609ed4f206f952fced8b64347",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "shopping.yahoo.com_style_clothing_articles_amiri-opens-first-london-flagship-210321137.html.md",
+      "repoPath": "news/artifacts/shopping.yahoo.com_style_clothing_articles_amiri-opens-first-london-flagship-210321137.html.md",
+      "type": "md",
+      "bytes": 2566,
+      "sha256": "d178ca6022aee33e8fac6c8593ddc686a0642045c554294d3ce94b80aee4f092",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "spotlight.html",
+      "repoPath": "news/artifacts/spotlight.html",
+      "type": "html",
+      "bytes": 4055,
+      "sha256": "f47dc72dba067f9bf3712887c97ec53b0bbeac92b28602dea0fc5b86da3f43b3",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "store-opening-news-aktuell-20260829.zip",
+      "repoPath": "news/artifacts/store-opening-news-aktuell-20260829.zip",
+      "type": "zip",
+      "bytes": 6245621,
+      "sha256": "a89297908b1c7d477faa78ff1d11531ccccbd601e82ace21ef6c25c95abb6860",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "store-opening-news-aktuell-20260829.zip.sha256",
+      "repoPath": "news/artifacts/store-opening-news-aktuell-20260829.zip.sha256",
+      "type": "sha256",
+      "bytes": 106,
+      "sha256": "997b37a57dbeed8fad86995b784433ee0ce78b5839eea330908da9bc32c4ab13",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "store-opening-news-konsolidiert-abdeckung.json",
+      "repoPath": "news/artifacts/store-opening-news-konsolidiert-abdeckung.json",
+      "type": "json",
+      "bytes": 553,
+      "sha256": "ba0327562ed514fb008d59d89d0c3322e64ca6370cfb5010a26a74894d84f713",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "store-opening-news-konsolidiert-mit-gps-fotos.csv",
+      "repoPath": "news/artifacts/store-opening-news-konsolidiert-mit-gps-fotos.csv",
+      "type": "csv",
+      "bytes": 8930706,
+      "sha256": "2844443f4abec7c216c696f7a9f04a8e6e44970e83e288b0e20526086d4b95a6",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "store-opening-news-konsolidiert-mit-gps-fotos.xlsx",
+      "repoPath": "news/artifacts/store-opening-news-konsolidiert-mit-gps-fotos.xlsx",
+      "type": "xlsx",
+      "bytes": 4225192,
+      "sha256": "b7fed18785e1a3727b78f337209f4acaf62ea4f7c266dfc9bf142718a8a3bdc3",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "store-opening-news-konsolidiert-mit-gps-fotos.zip",
+      "repoPath": "news/artifacts/store-opening-news-konsolidiert-mit-gps-fotos.zip",
+      "type": "zip",
+      "bytes": 7352002,
+      "sha256": "64b625910d9c5232527b005599a201d98b908e1cc692dcdbc9c7a4b1dae3b77a",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "store-openings-alle-staedte.xlsx",
+      "repoPath": "news/artifacts/store-openings-alle-staedte.xlsx",
+      "type": "xlsx",
+      "bytes": 3613030,
+      "sha256": "584c755606de1fd7198c0e33ee79c02414977057ea5a39ab8df90d4bbce7bf6c",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "us.fashionnetwork.com_news_New-global-store-openings-from-roberto-cavalli-louis-vuitton-loewe-polene.md",
+      "repoPath": "news/artifacts/us.fashionnetwork.com_news_New-global-store-openings-from-roberto-cavalli-louis-vuitton-loewe-polene.md",
+      "type": "md",
+      "bytes": 8521,
+      "sha256": "83db88e307c2bec6842f7e6e7f95dabce83133d6dd76b2c4122a90bbb311b99f",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "ww.fashionnetwork.com_news_Uniqlo-continues-expansion-in-france-announcing-new-store-in-cannes_18274.md",
+      "repoPath": "news/artifacts/ww.fashionnetwork.com_news_Uniqlo-continues-expansion-in-france-announcing-new-store-in-cannes_18274.md",
+      "type": "md",
+      "bytes": 6590,
+      "sha256": "ee4486480625e8e3c8649c4925a5ca6d35aa707a581dec2ea68f496a51cbc667",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "wwd.com_accessories-news_handbags_moynat-first-store-milan-salone-mobile-design-week-italy-123892116.md",
+      "repoPath": "news/artifacts/wwd.com_accessories-news_handbags_moynat-first-store-milan-salone-mobile-design-week-italy-123892116.md",
+      "type": "md",
+      "bytes": 11358,
+      "sha256": "861a565f9390f528516958443d54e3ecf8d66b21054fb0e904c84c164594916a",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "wwd.com_business-news_real-estate_new-york-city-luxury-top-pick-store-openings-savills-report-123892.md",
+      "repoPath": "news/artifacts/wwd.com_business-news_real-estate_new-york-city-luxury-top-pick-store-openings-savills-report-123892.md",
+      "type": "md",
+      "bytes": 11803,
+      "sha256": "77367aa22bb671c91d1177339b8536de324059312fcff68c63b59df8213325dc",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.cushmanwakefield.com_en_germany_news_2026_04_luxury-retail-report-europe.md",
+      "repoPath": "news/artifacts/www.cushmanwakefield.com_en_germany_news_2026_04_luxury-retail-report-europe.md",
+      "type": "md",
+      "bytes": 9297,
+      "sha256": "9bbde832deb31a8d6bf4c2bcfd55d41b545a357bf5853155e900d1b16b906643",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.cushmanwakefield.com_en_portugal_news_2026_03_luxury-store-openings-accelerate-as-brands-compete.md",
+      "repoPath": "news/artifacts/www.cushmanwakefield.com_en_portugal_news_2026_03_luxury-store-openings-accelerate-as-brands-compete.md",
+      "type": "md",
+      "bytes": 2586,
+      "sha256": "432ccecb95ac66879d052a54a5ba56080f6bc13007fc9acdfbc97070094ee454",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.georgetowndc.com_news_sezane-opening-in-georgetown_.md",
+      "repoPath": "news/artifacts/www.georgetowndc.com_news_sezane-opening-in-georgetown_.md",
+      "type": "md",
+      "bytes": 1605,
+      "sha256": "656e33c8641950993f744e0caa8910cf9bc44525ce555aa52be876dd3b1ca313",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_18-montenapoleone-retail-consultancy_26brokerage_800-mq-7-vetrine-_F0_9D_90_9.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_18-montenapoleone-retail-consultancy_26brokerage_800-mq-7-vetrine-_F0_9D_90_9.md",
+      "type": "md",
+      "bytes": 2086,
+      "sha256": "71a6735ab6c157976d48e77b63ed28f3572ff7e2e85788d1433d4d00a5c64792",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_a-contemporary-evolution-of-an-icon-blending-share-7454257332936507392-xIxk_u.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_a-contemporary-evolution-of-an-icon-blending-share-7454257332936507392-xIxk_u.md",
+      "type": "md",
+      "bytes": 1777,
+      "sha256": "cc637ab80acee0ee9a3a7f9a6ad13e24acc578d14944d587d143e3450338dd73",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_an-evening-with-bogliolis-friends-in-london-ugcPost-7470429106698997760-NOrH_.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_an-evening-with-bogliolis-friends-in-london-ugcPost-7470429106698997760-NOrH_.md",
+      "type": "md",
+      "bytes": 1591,
+      "sha256": "295b7072cecf63be37a16cab12bfc165c52da20df96b40b05339ddc850a9fade",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_antoinevandamme_after-paris-its-time-to-unveiled-rh-milan-activity-7452741396.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_antoinevandamme_after-paris-its-time-to-unveiled-rh-milan-activity-7452741396.md",
+      "type": "md",
+      "bytes": 1448,
+      "sha256": "14fcc2509ceff0ce1ec7e8d700e8faa5b1ad51968c9c948dd15dd3cab4a5e530",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_camille-rochedix-5a4a0294_uniqlo-uniqlowagram-lifewear-ugcPost-74559761015388.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_camille-rochedix-5a4a0294_uniqlo-uniqlowagram-lifewear-ugcPost-74559761015388.md",
+      "type": "md",
+      "bytes": 2864,
+      "sha256": "ff572fc11292675ddc1c43b6479f2e4bf9591c7fc451d32859b5e09120b39442",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_cbre-retail-hackett-wien-ugcPost-7467183215187906560-fR88__utm_source_social_.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_cbre-retail-hackett-wien-ugcPost-7467183215187906560-fR88__utm_source_social_.md",
+      "type": "md",
+      "bytes": 1841,
+      "sha256": "61896d9744994e3bcb9d0fdb964bb952f56a0c3945512a959675bae8b53b34fe",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_celine-tokyo-isetan-ugcPost-7463597600043278337-EzmP__utm_source_social_share.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_celine-tokyo-isetan-ugcPost-7463597600043278337-EzmP__utm_source_social_share.md",
+      "type": "md",
+      "bytes": 1304,
+      "sha256": "a222ce4dde090bf1e6625f698e40ea0ed3368727126885c222728c81b75f8dae",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_cpp-luxury-com_diptyque-hongkong-luxurybeauty-activity-7458417805416329216-T_.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_cpp-luxury-com_diptyque-hongkong-luxurybeauty-activity-7458417805416329216-T_.md",
+      "type": "md",
+      "bytes": 1480,
+      "sha256": "c394159cc06543f0241eaee60a3260316ebf9f1cf1c07f9b44e6122ccdc0b619",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_dreamon-ugcPost-7460622553800245249-xx2z.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_dreamon-ugcPost-7460622553800245249-xx2z.md",
+      "type": "md",
+      "bytes": 2573,
+      "sha256": "8878157240ccec701c817576e50b694fea955d9e3a88375339840325afa44ff7",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_gianni-forlini_falconeri-madisonavenue-flagshipretail-activity-74574643367610.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_gianni-forlini_falconeri-madisonavenue-flagshipretail-activity-74574643367610.md",
+      "type": "md",
+      "bytes": 2327,
+      "sha256": "d1a162ba0e9a64565c8e07c4a6a75cd3fc53a9b8ff2757cdf718b51613be4985",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_isabella-gaia-812b8b39_savetheduck-activity-7453807451226746880--XAH_utm_sour.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_isabella-gaia-812b8b39_savetheduck-activity-7453807451226746880--XAH_utm_sour.md",
+      "type": "md",
+      "bytes": 1910,
+      "sha256": "48518fb4f198de38c6e3272054afa03914dcb72cee17c3d245aafdcaaad192bb",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_isseymiyake-madisonavenue-newyork-ugcPost-7459663590095183873-CsAA.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_isseymiyake-madisonavenue-newyork-ugcPost-7459663590095183873-CsAA.md",
+      "type": "md",
+      "bytes": 1217,
+      "sha256": "660e896980de39e963b33de0b9b318b630d9d85b29112a66f2821c709ee9b577",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_jeffrey-wise-5364992b_washingtondc-ugcPost-7454284929099800576-L3Ff_utm_mediu.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_jeffrey-wise-5364992b_washingtondc-ugcPost-7454284929099800576-L3Ff_utm_mediu.md",
+      "type": "md",
+      "bytes": 2053,
+      "sha256": "c556214adb4106dfc68b60ad21e75bd251bb82ff046ebec12678b2a0ec018206",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_jorgen7_norraeona-welcometonature-share-7449855056788484097-oZBB_utm_source_s.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_jorgen7_norraeona-welcometonature-share-7449855056788484097-oZBB_utm_source_s.md",
+      "type": "md",
+      "bytes": 773,
+      "sha256": "02c6859f61f297770fa7e70aa846c072dda7165deb9f3bb583e07dac6c41b76c",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_larsplauborg_what-a-milestone-and-what-a-moment-ugcPost-7466032490277761024-L.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_larsplauborg_what-a-milestone-and-what-a-moment-ugcPost-7466032490277761024-L.md",
+      "type": "md",
+      "bytes": 3671,
+      "sha256": "2f6aa05cd3f67ea1bba1d50f7401c1667573a6acae4ae21683067dd0dd4fae8a",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_leona-ami-whitfield_rome-europe-expansion-ugcPost-7449557512514801665-AhCL_ut.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_leona-ami-whitfield_rome-europe-expansion-ugcPost-7449557512514801665-AhCL_ut.md",
+      "type": "md",
+      "bytes": 2085,
+      "sha256": "4cf7bbffe55a0e8e7425c2c985235eee1e7749678846c3f3a4f1ff5f95d5046a",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_linda-van-nispen-tot-pannerden-30ab2b391_transaction-new-balance-opens-store-.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_linda-van-nispen-tot-pannerden-30ab2b391_transaction-new-balance-opens-store-.md",
+      "type": "md",
+      "bytes": 2011,
+      "sha256": "038716e5e9c30cd488f4d14687d352d8af7a92ea8b7633779e68074ecd2af993",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_lisafitzgeraldretail_luxurydestinations-ugcPost-7453100575786913792-YhYO_utm_.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_lisafitzgeraldretail_luxurydestinations-ugcPost-7453100575786913792-YhYO_utm_.md",
+      "type": "md",
+      "bytes": 2266,
+      "sha256": "acadcf1d37d6fa31ccbff532b32a0a646eb0812ef4a1d228fca17177813b0bd7",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_martin-olofsson-7ab5328_today-we-open-a-pullbear-in-cc-v_C3_A4la-helsingborg-.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_martin-olofsson-7ab5328_today-we-open-a-pullbear-in-cc-v_C3_A4la-helsingborg-.md",
+      "type": "md",
+      "bytes": 1621,
+      "sha256": "21ff1dc2bfa1d426a66bf3eededc273ae2d8759a9827eb65310cf6eee4b2e208",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_maurosansonettiretail_retail-minisoland-milan-share-7466381187935244288-_NEa_.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_maurosansonettiretail_retail-minisoland-milan-share-7466381187935244288-_NEa_.md",
+      "type": "md",
+      "bytes": 2852,
+      "sha256": "06e662c52d26b483e8cd62783367b25e23d41c2c3db98d5b34cbbffd97ef437f",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_maxime-chapuis_toulouse-were-open-were-excited-to-ugcPost-7457029796951183360.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_maxime-chapuis_toulouse-were-open-were-excited-to-ugcPost-7457029796951183360.md",
+      "type": "md",
+      "bytes": 3716,
+      "sha256": "9dbf6b5060d5e903603fa4132642b077f9e6cb45b52bb7e3870397d015f35a17",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_monicacannalire_milan-retailmonamour-weareyounicorns-ugcPost-7452058470830366.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_monicacannalire_milan-retailmonamour-weareyounicorns-ugcPost-7452058470830366.md",
+      "type": "md",
+      "bytes": 1518,
+      "sha256": "97d1c984b346f0e554dff274197aed51107d991affedd8816574dfc820d1b2e9",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_new-opening-arket-ugcPost-7457051455900794881-5ki3__utm_source_social_share_s.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_new-opening-arket-ugcPost-7457051455900794881-5ki3__utm_source_social_share_s.md",
+      "type": "md",
+      "bytes": 2241,
+      "sha256": "4f6e2f71009254276ada4cf8a46a95e8bdd833e9faa0cee711d7b62e0d95f7bd",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_newopening-mc2saintbarth-share-7450569177595097088-a5UK_utm_source_social_sha.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_newopening-mc2saintbarth-share-7450569177595097088-a5UK_utm_source_social_sha.md",
+      "type": "md",
+      "bytes": 1956,
+      "sha256": "a8996ae1bd70877ef0207b62f827243d24ece4fc9ada320b6255d8fbc984cd95",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_orlebar-brown_bravissimo-weve-opened-at-the-iconic-hotel-activity-74508202414.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_orlebar-brown_bravissimo-weve-opened-at-the-iconic-hotel-activity-74508202414.md",
+      "type": "md",
+      "bytes": 2648,
+      "sha256": "cd584d3a1e9a065e6e94298c4c3e87758f833b4737d56f3d98231cc8507978ea",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_pcghooftstraat-luxuryretail-amsterdam-share-7460349804766920705-7A67.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_pcghooftstraat-luxuryretail-amsterdam-share-7460349804766920705-7A67.md",
+      "type": "md",
+      "bytes": 2122,
+      "sha256": "9d656159015cd55fdc696ba6d1d55f3cb8a232678fd57b1e94994969fc425607",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_pierre-raynal-436b96a_vancleefandarpels-ugcPost-7458738706594770944-oZc1_utm_.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_pierre-raynal-436b96a_vancleefandarpels-ugcPost-7458738706594770944-oZc1_utm_.md",
+      "type": "md",
+      "bytes": 1417,
+      "sha256": "d74ce496f92f61ad9e56494461f9fe6172e70b9e2d9b1204c9d5632c9f51ab0d",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_pierre-raynal-436b96a_vancleefandarpels-ugcPost-7471427956431630337-3zGQ__utm.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_pierre-raynal-436b96a_vancleefandarpels-ugcPost-7471427956431630337-3zGQ__utm.md",
+      "type": "md",
+      "bytes": 1335,
+      "sha256": "d62647af7cfaea6cebd7493c104aab8cf2457252f0120e454454dbb8926a218a",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_skims-judygenovese-executiveappointment-share-7464999099214450689-_NNH__utm_s.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_skims-judygenovese-executiveappointment-share-7464999099214450689-_NNH__utm_s.md",
+      "type": "md",
+      "bytes": 15980,
+      "sha256": "19fa66e5d9fc5d719cd12d4965013ff053334b9f345f9e956611165244c47423",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_val_C3_A9rie-stern-5023a011_uniqlo-lifewear-retailfrance-ugcPost-745051362814.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_val_C3_A9rie-stern-5023a011_uniqlo-lifewear-retailfrance-ugcPost-745051362814.md",
+      "type": "md",
+      "bytes": 3112,
+      "sha256": "2cf05a2f6caf099571dfcad347fa271802f674271153ba1ab598cc424c2c90cc",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_valérie-stern-5023a011_uniqlo-lifewear-retailfrance-ugcPost-74505136281491046.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_valérie-stern-5023a011_uniqlo-lifewear-retailfrance-ugcPost-74505136281491046.md",
+      "type": "md",
+      "bytes": 2674,
+      "sha256": "aa21c57d668f82fe5d26f45a092e961cc158f4561eb47f1654645c49c2570670",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.linkedin.com_posts_valérie-stern-5023a011_uniqlo-poursuit-son-expansion-en-france-avec-activity-.md",
+      "repoPath": "news/artifacts/www.linkedin.com_posts_valérie-stern-5023a011_uniqlo-poursuit-son-expansion-en-france-avec-activity-.md",
+      "type": "md",
+      "bytes": 1697,
+      "sha256": "a2e75e732515c7df0de23fb6748a4eaecc227f624174273de94991229dc85ce4",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.lofficielusa.com_fashion_fashion-beauty-lifestyle-new-store-openings-new-york-city-los-angeles-m.md",
+      "repoPath": "news/artifacts/www.lofficielusa.com_fashion_fashion-beauty-lifestyle-new-store-openings-new-york-city-los-angeles-m.md",
+      "type": "md",
+      "bytes": 10065,
+      "sha256": "48608f22e01053f3e12b7e23d156832c8df4d83110ebb64797e3399c77d7cbde",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.vogue.com_slideshow_dolce-and-gabbana-madison-avenue-store-opening-2025.md",
+      "repoPath": "news/artifacts/www.vogue.com_slideshow_dolce-and-gabbana-madison-avenue-store-opening-2025.md",
+      "type": "md",
+      "bytes": 3062,
+      "sha256": "ebe26b9dc69dd6d18e48b60e83405d13b36988761252857caae868b333c63d6a",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "www.yahoo.com_news_articles_google-store-opening-san-diego-062130918.html.md",
+      "repoPath": "news/artifacts/www.yahoo.com_news_articles_google-store-opening-san-diego-062130918.html.md",
+      "type": "md",
+      "bytes": 2161,
+      "sha256": "03049d92fe2d2b93603835cb24596918860c476f903a878e8af2057695f92735",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "00990024_London_Bond_Street_and_Conduit_Street_The_St_Regis.png",
+      "repoPath": "news/photos/after-2026-08-29/images/00990024_London_Bond_Street_and_Conduit_Street_The_St_Regis.png",
+      "type": "photo",
+      "bytes": 494690,
+      "sha256": "c7877f27147e34f3b5ca3b6d703444f24efaa485112120bd2b78c99bf9d9b61b",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "00990071_Marrakech_no_address_DELANO.png",
+      "repoPath": "news/photos/after-2026-08-29/images/00990071_Marrakech_no_address_DELANO.png",
+      "type": "photo",
+      "bytes": 448606,
+      "sha256": "814e83fc08dd4467432072d3dd07bacbac90236f06f356bf6c92426d7b6c8864",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "00990086_Miami_3601_Biscayne_Blvd_Anantara_Hotels_Resorts.png",
+      "repoPath": "news/photos/after-2026-08-29/images/00990086_Miami_3601_Biscayne_Blvd_Anantara_Hotels_Resorts.png",
+      "type": "photo",
+      "bytes": 406547,
+      "sha256": "e5aaff5c410d452712f7ac743812fd2d8371977ad49dfa87c1409c51c85f4be9",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "00990201_Savudrija_no_address_Anantara.png",
+      "repoPath": "news/photos/after-2026-08-29/images/00990201_Savudrija_no_address_Anantara.png",
+      "type": "photo",
+      "bytes": 431244,
+      "sha256": "a0b5c438b2377ac001ac5ef45485237d813c1f28e715dd806841574f8325d39a",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "00990240_London_Stanhope_Row_The_Shepherd_Mayfair.png",
+      "repoPath": "news/photos/after-2026-08-29/images/00990240_London_Stanhope_Row_The_Shepherd_Mayfair.png",
+      "type": "photo",
+      "bytes": 423102,
+      "sha256": "497cd7ece9f02c01a00137be070994e6362b0dbaaffb1ecfb1006ffc8adefce2",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "00990243_Marrakech_no_address_Kimpton.png",
+      "repoPath": "news/photos/after-2026-08-29/images/00990243_Marrakech_no_address_Kimpton.png",
+      "type": "photo",
+      "bytes": 583747,
+      "sha256": "e5184122be2fcad00805902ab90fe1cc354447ba52ae72bb0d1035d1ce5e45d4",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "00990718_Lagos_Palmares_Ocean_Living_Golf_Resort_JW_Marriott.png",
+      "repoPath": "news/photos/after-2026-08-29/images/00990718_Lagos_Palmares_Ocean_Living_Golf_Resort_JW_Marriott.png",
+      "type": "photo",
+      "bytes": 402277,
+      "sha256": "d20e2f47440beceaa52607a1cc830ab1659b6773a12f1f937017c65f4307e49e",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "00990785_Moltrasio_no_address_Raffles.png",
+      "repoPath": "news/photos/after-2026-08-29/images/00990785_Moltrasio_no_address_Raffles.png",
+      "type": "photo",
+      "bytes": 533999,
+      "sha256": "df314c489df81c5521d0146553a69c9a7269d2b5311cd6aed0ba8894b52a90ba",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "00990817_Singapore_no_address_Sunset.jpg",
+      "repoPath": "news/photos/after-2026-08-29/images/00990817_Singapore_no_address_Sunset.jpg",
+      "type": "photo",
+      "bytes": 35270,
+      "sha256": "853a47766bee9ac23122a47bf0c53f28b10b28e2bebb087650b7bd99a00221e3",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "00990833_Manchester_Etihad_Campus_Radisson_Hotels.png",
+      "repoPath": "news/photos/after-2026-08-29/images/00990833_Manchester_Etihad_Campus_Radisson_Hotels.png",
+      "type": "photo",
+      "bytes": 542808,
+      "sha256": "7a910ab740e4171df906433b08a7aee55d7c7177997fedd2180b9678512e6974",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "00991072_Giza_no_address_Sofitel.png",
+      "repoPath": "news/photos/after-2026-08-29/images/00991072_Giza_no_address_Sofitel.png",
+      "type": "photo",
+      "bytes": 496262,
+      "sha256": "fbb5715619263ecf5ed7130ed757baceb22c038bf7a636094124308175cad161",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "00991095_Dublin_Dublin_Airport_Terminal_2_Sofitel.jpg",
+      "repoPath": "news/photos/after-2026-08-29/images/00991095_Dublin_Dublin_Airport_Terminal_2_Sofitel.jpg",
+      "type": "photo",
+      "bytes": 53173,
+      "sha256": "629d4d2fb141c45f5713ca1b4400ddc53eaa5264cf339b5497be392c73196a60",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "00991292_Belgrade_Delta_District_InterContinental.png",
+      "repoPath": "news/photos/after-2026-08-29/images/00991292_Belgrade_Delta_District_InterContinental.png",
+      "type": "photo",
+      "bytes": 405591,
+      "sha256": "027de446427cacc50335a62d2e65234e2f69834308af8ce306946dd30919abfc",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "00991301_Melbourne_560_Church_Street_Cremorne_The_Hoxton.png",
+      "repoPath": "news/photos/after-2026-08-29/images/00991301_Melbourne_560_Church_Street_Cremorne_The_Hoxton.png",
+      "type": "photo",
+      "bytes": 576479,
+      "sha256": "f3b9251eb64c14995f8e0c44c7faecfe92d07940bb562812460cdbc683906453",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "00991328_Orlando_Church_Street_Kimpton.jpg",
+      "repoPath": "news/photos/after-2026-08-29/images/00991328_Orlando_Church_Street_Kimpton.jpg",
+      "type": "photo",
+      "bytes": 67124,
+      "sha256": "289ddf52f90dbe1a5462d81cbc1277f0be8e2cf68fba081c4e2203184b2e5b18",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "00991353_Jakarta_Sudirman_Street_Andaz.png",
+      "repoPath": "news/photos/after-2026-08-29/images/00991353_Jakarta_Sudirman_Street_Andaz.png",
+      "type": "photo",
+      "bytes": 499855,
+      "sha256": "fce32a470c6b794acfb17413ab8248b2345cc3e11ef3e68fab874f1a0eca35bb",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "00991376_Tokyo_World_Trade_Center_Building_Hamamatsucho_district_Raffles.png",
+      "repoPath": "news/photos/after-2026-08-29/images/00991376_Tokyo_World_Trade_Center_Building_Hamamatsucho_district_Raffles.png",
+      "type": "photo",
+      "bytes": 542984,
+      "sha256": "1ed2a7c86c4c4db5ff234cc8b3bd1b7de33aa1f66345f83fbc2ed496f0fc3c65",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "00991498_Bimini_Rockwell_Island_Banyan_Tree.png",
+      "repoPath": "news/photos/after-2026-08-29/images/00991498_Bimini_Rockwell_Island_Banyan_Tree.png",
+      "type": "photo",
+      "bytes": 570541,
+      "sha256": "442767c9f4f388cc505bd52eeaa7d5f47dc9b2ea8f5a5cb33542d405be1e39bf",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "00991703_Sanya_Sanya_Bay_W_Hotels.jpg",
+      "repoPath": "news/photos/after-2026-08-29/images/00991703_Sanya_Sanya_Bay_W_Hotels.jpg",
+      "type": "photo",
+      "bytes": 41028,
+      "sha256": "f3f266325a4b17b3227b2ced0baf0647391d4b8148f6ea63113e9e4d007ac736",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "00991722_Dubai_no_address_Aman.png",
+      "repoPath": "news/photos/after-2026-08-29/images/00991722_Dubai_no_address_Aman.png",
+      "type": "photo",
+      "bytes": 464402,
+      "sha256": "d6cf75f730813b801a76851d0205f2902a6a5dcfffccd34d9599fae13d9af766",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "00991739_Riyadh_King_Abdullah_Financial_District_KAFD_Regent.jpg",
+      "repoPath": "news/photos/after-2026-08-29/images/00991739_Riyadh_King_Abdullah_Financial_District_KAFD_Regent.jpg",
+      "type": "photo",
+      "bytes": 86982,
+      "sha256": "8f3e3888ad54a6e2120bf93a5f10da1d88562922a9b4337d5c9ea4550dbeab65",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "00991744_Trojena_no_address_Raffles.jpg",
+      "repoPath": "news/photos/after-2026-08-29/images/00991744_Trojena_no_address_Raffles.jpg",
+      "type": "photo",
+      "bytes": 65391,
+      "sha256": "61ff3b418a5d2482bf78c0a27fa1256b24805ba39965573afef4755687785c9a",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "00992549_Seoul_no_address_Rosewood.png",
+      "repoPath": "news/photos/after-2026-08-29/images/00992549_Seoul_no_address_Rosewood.png",
+      "type": "photo",
+      "bytes": 538389,
+      "sha256": "832b5737f355a280881c00877b2bae0a8f7db3622af91d617e0b563288c71894",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "00992567_South_Male_Atoll_no_address_Rosewood.jpg",
+      "repoPath": "news/photos/after-2026-08-29/images/00992567_South_Male_Atoll_no_address_Rosewood.jpg",
+      "type": "photo",
+      "bytes": 49232,
+      "sha256": "8017b323476abc62ac62407a2187998ef133706f70bdeef57427bc110b55d29d",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110004_unknown_no_address_Accor.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110004_unknown_no_address_Accor.png",
+      "type": "photo",
+      "bytes": 333088,
+      "sha256": "a15bc6a60b7dcd3b311c8defab3e727506601907e5ee4a286146a66470b4fb0e",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110007_unknown_no_address_Aeffe_Group_Alberta.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110007_unknown_no_address_Aeffe_Group_Alberta.png",
+      "type": "photo",
+      "bytes": 345133,
+      "sha256": "db93939dff0fe445c1e96e939aa847feec23b444d1dd0bb51959fbf4f4341c85",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110008_Madrid_no_address_After_Miami_Jacquemus_to.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110008_Madrid_no_address_After_Miami_Jacquemus_to.png",
+      "type": "photo",
+      "bytes": 437855,
+      "sha256": "42f274f0f9f40690563f4b261a62f19faf1d2d9994d19b2dad147591803b45cf",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110010_unknown_no_address_Alaia.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110010_unknown_no_address_Alaia.png",
+      "type": "photo",
+      "bytes": 336727,
+      "sha256": "8ce0b1011c791df52872c711b63df17b405304a59fb362b7600ca66009fb980c",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110011_Hong_Kong_no_address_ALO_Yoga.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110011_Hong_Kong_no_address_ALO_Yoga.png",
+      "type": "photo",
+      "bytes": 435034,
+      "sha256": "ce23daa1af90946b61c9d3407688f88dfaaeaefa75182949ee87a29e19cb4700",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110016_unknown_no_address_Anthony_Vaccarello_is.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110016_unknown_no_address_Anthony_Vaccarello_is.png",
+      "type": "photo",
+      "bytes": 437731,
+      "sha256": "bf1e27171ff72faa513f09ef69f11f1e4e63d41b059d49ce6a87c1715952b18c",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110018_unknown_no_address_Arnault_to_simplify.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110018_unknown_no_address_Arnault_to_simplify.png",
+      "type": "photo",
+      "bytes": 447803,
+      "sha256": "cdd6ecd67659e92e6042dad98720c13d274ad95a729b97d57c4cf38ec0b54d13",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110019_unknown_no_address_Audemars_Piguet.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110019_unknown_no_address_Audemars_Piguet.png",
+      "type": "photo",
+      "bytes": 379669,
+      "sha256": "6cb507b44259be23aa91e53ef449d9bfb1ffce8674bfb97048a0e6103c92b294",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110022_unknown_no_address_Balenciaga.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110022_unknown_no_address_Balenciaga.png",
+      "type": "photo",
+      "bytes": 403955,
+      "sha256": "a9dc0334da388aea265ab257a052f6375c6675d258619c28422aa4a7a9fab1a8",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110024_Milan_no_address_BALMAIN.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110024_Milan_no_address_BALMAIN.png",
+      "type": "photo",
+      "bytes": 437116,
+      "sha256": "ce5bc2f21c311034c276dd81136d972600957c53b5b5a12ed4261eb61727529a",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110025_unknown_no_address_Belstaff_reports_improved.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110025_unknown_no_address_Belstaff_reports_improved.png",
+      "type": "photo",
+      "bytes": 377839,
+      "sha256": "882cde8ad4b56211e79c54657cb0b56315aeafcb1dde202f9cc233ae2669cd84",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110028_unknown_no_address_Best_Indoor_Golf.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110028_unknown_no_address_Best_Indoor_Golf.png",
+      "type": "photo",
+      "bytes": 310146,
+      "sha256": "ad691191794e3b332dcb285b5d45b81004f14d281500a991029f829b10daf8ae",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110030_unknown_no_address_Beyond_the_Surface.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110030_unknown_no_address_Beyond_the_Surface.png",
+      "type": "photo",
+      "bytes": 482659,
+      "sha256": "f80a7fc4fcac918dfd3fb7049b8145a19bb4a2579d816f4a0cd20233c75e3b72",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110032_Berlin_no_address_Birkenstock.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110032_Berlin_no_address_Birkenstock.png",
+      "type": "photo",
+      "bytes": 400888,
+      "sha256": "81eade18dda49395613794bbefaaa7e90c5274d0626e9471ba7de3da25eae07c",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110033_Tokyo_no_address_Birkenstock.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110033_Tokyo_no_address_Birkenstock.png",
+      "type": "photo",
+      "bytes": 534906,
+      "sha256": "ae89c4e887a85d081cbfa7e5030c12eda45143ad5aff6041170fe16d18c053ff",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110038_unknown_no_address_Breitlings_majority_owner.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110038_unknown_no_address_Breitlings_majority_owner.png",
+      "type": "photo",
+      "bytes": 460578,
+      "sha256": "54c2e5ea9a727c076522a5263059f211372d17a3c8b73f57e680c82778615152",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110040_Paris_no_address_Brunello_Cucinelli.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110040_Paris_no_address_Brunello_Cucinelli.png",
+      "type": "photo",
+      "bytes": 495989,
+      "sha256": "d2268111fb331d488abe673624fc01a466c3b5660a3cce4cec4269e3af351547",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110041_unknown_no_address_Brunello_Cucinelli_reports.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110041_unknown_no_address_Brunello_Cucinelli_reports.png",
+      "type": "photo",
+      "bytes": 403076,
+      "sha256": "3a07da612a7bbb60b652648417518c0b9f048eb281bb4efef6472cc3297546e8",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110042_Milan_no_address_BUCCELLATI.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110042_Milan_no_address_BUCCELLATI.png",
+      "type": "photo",
+      "bytes": 449840,
+      "sha256": "a42a7c43962bda90945c95d51ede237ce63eb0c20381291a4856ba860c3b3d57",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110045_Sydney_no_address_Canada_Goose.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110045_Sydney_no_address_Canada_Goose.png",
+      "type": "photo",
+      "bytes": 343086,
+      "sha256": "598d9a31fce2e728fe812d7519e5a80d74844d29d7774ad41c8a58ac31eeab9d",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110047_unknown_no_address_Capri_Holdings_up.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110047_unknown_no_address_Capri_Holdings_up.png",
+      "type": "photo",
+      "bytes": 518076,
+      "sha256": "9dd86d95f791f6a17cf1d1716a2264c0a468d912ae6656dc224260822bf70144",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110049_unknown_no_address_Cartier.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110049_unknown_no_address_Cartier.png",
+      "type": "photo",
+      "bytes": 539006,
+      "sha256": "295e20c610486c0ca2f402f4cdd9ce810e0e749e3dae3a3a123b9e3d45923654",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110050_unknown_no_address_Cartier.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110050_unknown_no_address_Cartier.png",
+      "type": "photo",
+      "bytes": 388407,
+      "sha256": "18968627bbb29f956f18d385d1e15526d2087018b4ed81a73af26b273cadb03d",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110051_Beverly_Hills_no_address_CELINE.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110051_Beverly_Hills_no_address_CELINE.png",
+      "type": "photo",
+      "bytes": 422596,
+      "sha256": "038b21a86e36b29bb32f8309f0c1c23adf13d88881bf45093b59baeb51682254",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110053_unknown_no_address_CHANEL_and_FP.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110053_unknown_no_address_CHANEL_and_FP.png",
+      "type": "photo",
+      "bytes": 422767,
+      "sha256": "e3b51c21b0bd6d889c10ab2fe2172dc05222e3942f575997f980a8f7d382e990",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110054_unknown_no_address_CHANEL_bags_now.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110054_unknown_no_address_CHANEL_bags_now.png",
+      "type": "photo",
+      "bytes": 429539,
+      "sha256": "9aa94ae1f13883bd871ea2d84a455e12f7245d55f7bbe39efdb73726bb150e21",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110055_unknown_no_address_CHANEL_chooses_another.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110055_unknown_no_address_CHANEL_chooses_another.png",
+      "type": "photo",
+      "bytes": 318685,
+      "sha256": "376fb682aa76e0cc266b8efc78d167b66be545cb8444cc69699e1bc0dbcc4c4b",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110056_unknown_no_address_CHANEL_continues_to.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110056_unknown_no_address_CHANEL_continues_to.png",
+      "type": "photo",
+      "bytes": 273429,
+      "sha256": "cb8bdade8e6be8517c1a06c7d9153b62bb792abb7ba8612ddb741c9b9a4138d4",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110058_New_York_no_address_CHANEL_gets_faked.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110058_New_York_no_address_CHANEL_gets_faked.png",
+      "type": "photo",
+      "bytes": 325240,
+      "sha256": "99edd50c0cb9a66c45781d5749f0ecff379f0cbce62ba75de10bc7467a8737ff",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110059_unknown_no_address_Chanel-owned_Barrie.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110059_unknown_no_address_Chanel-owned_Barrie.png",
+      "type": "photo",
+      "bytes": 372881,
+      "sha256": "239d0efa3ac7bcfd7c3784acc0abfe708a3a5f27031921fa0b02835e9f8d599e",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110062_Jakarta_no_address_Christian_Louboutin.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110062_Jakarta_no_address_Christian_Louboutin.png",
+      "type": "photo",
+      "bytes": 404069,
+      "sha256": "5f26280340ed5f0dcc83ddddd10da81ef89ea4c5ee58d19b6413da5eee81fa27",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110063_unknown_no_address_Christopher_Kane.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110063_unknown_no_address_Christopher_Kane.png",
+      "type": "photo",
+      "bytes": 364838,
+      "sha256": "03145cb752666562c6d1bf516d63fd886b1bdf1a6b413d0621d6eca64ce04e64",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110069_New_York_no_address_DE_BEERS_London.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110069_New_York_no_address_DE_BEERS_London.png",
+      "type": "photo",
+      "bytes": 320979,
+      "sha256": "063579ff14f4ba9864e3b0cc744ae084d27a40b09e470e1638475369bf0a51eb",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110070_unknown_no_address_Demna_makes_yet.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110070_unknown_no_address_Demna_makes_yet.png",
+      "type": "photo",
+      "bytes": 388819,
+      "sha256": "d0e5584ecbc7bf5c0cf594a978e8f700d013bc150bbed02bded1d50ad75e6aac",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110072_unknown_no_address_DIOR.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110072_unknown_no_address_DIOR.png",
+      "type": "photo",
+      "bytes": 375045,
+      "sha256": "088500c480f46a449885bec7c0de8b17e0826433362cd6737b60f7f2bb0a89bc",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110073_Milan_no_address_DIOR.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110073_Milan_no_address_DIOR.png",
+      "type": "photo",
+      "bytes": 458512,
+      "sha256": "cf40df0e462e00adb6e5da2ea43cce87e9f159a6e25fe1d8314f3916841f19a7",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110075_unknown_no_address_Dolce_Gabbana.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110075_unknown_no_address_Dolce_Gabbana.png",
+      "type": "photo",
+      "bytes": 368404,
+      "sha256": "b78df7818ed19b163772126ecf242c6172e10685b82161bdc3e874f020b9f9d0",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110077_Los_Angeles_no_address_Donatella_Versace_is.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110077_Los_Angeles_no_address_Donatella_Versace_is.png",
+      "type": "photo",
+      "bytes": 233998,
+      "sha256": "390f03926702d2817e2492ddf50be7b3047839c82f677c557daa1cdb5117cb9f",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110081_unknown_no_address_Ermenegildo_Zegna_Group.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110081_unknown_no_address_Ermenegildo_Zegna_Group.png",
+      "type": "photo",
+      "bytes": 430231,
+      "sha256": "7d5613cf7a1e62083bdf79f174834c976bec64bfc8017d88e4c0c6d3ec6536f5",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110083_unknown_no_address_European_luxury_goods.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110083_unknown_no_address_European_luxury_goods.png",
+      "type": "photo",
+      "bytes": 489820,
+      "sha256": "d55da5d6bd97e5c842f40efb3bd74fac01200a89966efd4734eed0e7f3e21682",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110085_unknown_no_address_FERRAGAMO.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110085_unknown_no_address_FERRAGAMO.png",
+      "type": "photo",
+      "bytes": 463557,
+      "sha256": "d8ccded4b53aa91c874a88855739763c97a6d6fa6158c1088ec0633902dcb035",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110089_unknown_no_address_Frasers_Group.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110089_unknown_no_address_Frasers_Group.png",
+      "type": "photo",
+      "bytes": 522854,
+      "sha256": "5f5bd9fa379ab2406bd52b060a09caa63e58efe5ab058ec058c771308fd8cde1",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110090_unknown_no_address_French_luxury_casmere.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110090_unknown_no_address_French_luxury_casmere.png",
+      "type": "photo",
+      "bytes": 343735,
+      "sha256": "24d61a36b083e05f2ce82e6193646cca09a7affcc6019f65ce1b05c219d74e01",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110094_unknown_no_address_Gieves_Hawkes.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110094_unknown_no_address_Gieves_Hawkes.png",
+      "type": "photo",
+      "bytes": 429534,
+      "sha256": "4b165e3aedb2ac0eb76891f4823f80807f70dac06e4f5ce466391dcb8a2dafba",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110096_unknown_no_address_Golden_Goose_reports.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110096_unknown_no_address_Golden_Goose_reports.png",
+      "type": "photo",
+      "bytes": 478770,
+      "sha256": "0f2f37dc36d740919c1958346e2e5821e9b8066bc708e57fc8a580833cfc388c",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110098_unknown_no_address_H_Moser_Cie.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110098_unknown_no_address_H_Moser_Cie.png",
+      "type": "photo",
+      "bytes": 292671,
+      "sha256": "4ae34df9e10ecd3386cb601822a1cef253a9ab8dfd9c05d123be0a782a8428f5",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110106_unknown_no_address_Hermes.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110106_unknown_no_address_Hermes.png",
+      "type": "photo",
+      "bytes": 398277,
+      "sha256": "eda9cb74acfee124fd0e64f744ebb9921bea67ef2b6408aad2bba7faa186ac1e",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110108_unknown_no_address_High-Quality_Apparel_Production.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110108_unknown_no_address_High-Quality_Apparel_Production.png",
+      "type": "photo",
+      "bytes": 407904,
+      "sha256": "14fe998cf643129dd041c6f659da91cf16e24aad474cbe8eb953178162d20952",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110110_Berlin_no_address_Hotel_Adlon_Kempinski.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110110_Berlin_no_address_Hotel_Adlon_Kempinski.png",
+      "type": "photo",
+      "bytes": 525514,
+      "sha256": "1104b93f843f46bd9db1c40442f337ee9d4f34ef388aa315ecf7a3845f889f5c",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110120_unknown_no_address_Island_in_Maldives.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110120_unknown_no_address_Island_in_Maldives.png",
+      "type": "photo",
+      "bytes": 451311,
+      "sha256": "5167d9d978a403d880c7769902888a60848a358cc501e7f988266a6598209b5b",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110126_unknown_no_address_Kim_Jones.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110126_unknown_no_address_Kim_Jones.png",
+      "type": "photo",
+      "bytes": 340514,
+      "sha256": "fe33f9aae15af7b870c52f7fdce75046a6da3a608992c67998a7c6b3ca42a8c4",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110129_unknown_no_address_LOEWE.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110129_unknown_no_address_LOEWE.png",
+      "type": "photo",
+      "bytes": 410847,
+      "sha256": "2686b27f4443c93fef68ddf118fd41b90eecfe3048ced794ccd51d1b6882c828",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110131_unknown_no_address_Loro_Piana.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110131_unknown_no_address_Loro_Piana.png",
+      "type": "photo",
+      "bytes": 346037,
+      "sha256": "ec31a9a2c8dc76029ad4f749f1882f3d1a57945bd1145017236931b5f5fd50c2",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110137_Paris_no_address_Luxury_watches_novelties.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110137_Paris_no_address_Luxury_watches_novelties.png",
+      "type": "photo",
+      "bytes": 394995,
+      "sha256": "fc49472a212bbfbe45e8e277e0182eb6ee4c05900bc6774297758874a3922e51",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110139_unknown_no_address_LVMH_reports_Q3.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110139_unknown_no_address_LVMH_reports_Q3.png",
+      "type": "photo",
+      "bytes": 447379,
+      "sha256": "07bcaeec084ae36fcaa81c506020cf77c50b6adf5c501e0e9667c321d3c53988",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110142_unknown_no_address_LVMHs_Bernard_Arnault.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110142_unknown_no_address_LVMHs_Bernard_Arnault.png",
+      "type": "photo",
+      "bytes": 387146,
+      "sha256": "ebe503c0e665f3dded85582dbc20014daedada3b21905a707978fd425b5266ea",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110150_Paris_no_address_Miu_Miu.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110150_Paris_no_address_Miu_Miu.png",
+      "type": "photo",
+      "bytes": 392234,
+      "sha256": "9411d6063f6438a3c0ae7efd5c370442651f1e1b9a70702024f3eb9640a2171e",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110153_unknown_no_address_Moncler.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110153_unknown_no_address_Moncler.png",
+      "type": "photo",
+      "bytes": 370264,
+      "sha256": "9e86cbe4b52e7fd9e509018bb1411bf54cead254272fc3bd8f918023ff624faa",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110154_New_York_no_address_Moncler.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110154_New_York_no_address_Moncler.png",
+      "type": "photo",
+      "bytes": 413647,
+      "sha256": "7ff318e833543af2a9a3d6c40101adbfe1d5ed837d479c5347bc1c58b2126eb0",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110156_London_no_address_Mulberry.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110156_London_no_address_Mulberry.png",
+      "type": "photo",
+      "bytes": 271962,
+      "sha256": "a060a3cc31979405fe3466aa4ae39fcb2e62d77bbe71f87bc35678dd51e828ba",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110159_unknown_no_address_ON.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110159_unknown_no_address_ON.png",
+      "type": "photo",
+      "bytes": 426123,
+      "sha256": "1a1f7db21e31212f1df125070ea26acbe00411c652e7ad49575f31852b9b69d1",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110163_Paris_no_address_Paris_Fashion_Week.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110163_Paris_no_address_Paris_Fashion_Week.png",
+      "type": "photo",
+      "bytes": 405059,
+      "sha256": "df3beea0d215c25e38a522d381a32464edf6c1d6a4525405d872aaa940f7ef8e",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110164_New_York_no_address_Patek_Philippe.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110164_New_York_no_address_Patek_Philippe.png",
+      "type": "photo",
+      "bytes": 365538,
+      "sha256": "fad6be514f2f06169d34ccbb514fac650dbe512c246d6d1df3075444da6f6a79",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110167_unknown_no_address_Porsche.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110167_unknown_no_address_Porsche.png",
+      "type": "photo",
+      "bytes": 273579,
+      "sha256": "3ca8a6d13249d829f09b1fc52de1c6c6ec68e9cc3c3d7227dfb3e847184f9037",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110169_Hong_Kong_no_address_PRADA.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110169_Hong_Kong_no_address_PRADA.png",
+      "type": "photo",
+      "bytes": 491917,
+      "sha256": "571b95f35951f60ca3bd6737769b717cfde6e7cbffe49c44994279f36aa6140a",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110170_Milan_no_address_PRADA.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110170_Milan_no_address_PRADA.png",
+      "type": "photo",
+      "bytes": 639801,
+      "sha256": "2b6897420c8b34cd09862da9f664f1f3c4661ab45479b14637be777705a9fe54",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110172_Los_Angeles_no_address_Proenza_Schouler.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110172_Los_Angeles_no_address_Proenza_Schouler.png",
+      "type": "photo",
+      "bytes": 318837,
+      "sha256": "aa62dc71ca0bdb6431c531a1ac15c3d7f75f25d62b8eed27799b0c338a012c54",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110177_unknown_no_address_Ralph_Lauren.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110177_unknown_no_address_Ralph_Lauren.png",
+      "type": "photo",
+      "bytes": 588374,
+      "sha256": "3314386d31b31d29b61e8e8b8ffa919b8105fdd9601fc50f02dc538ac05e913a",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110181_Madrid_no_address_RICHARD_MILLE.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110181_Madrid_no_address_RICHARD_MILLE.png",
+      "type": "photo",
+      "bytes": 413702,
+      "sha256": "7ccb15150d760202204fa27c5c5931d7405c99aa154eedfff15d96c14f45803b",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110183_unknown_no_address_Richemont-owned_TimeVallee.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110183_unknown_no_address_Richemont-owned_TimeVallee.png",
+      "type": "photo",
+      "bytes": 402871,
+      "sha256": "9fb19748475c7a3d18e540eefdbee2efaecae4a999cdb7ef8b49f7da80783283",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110190_Jakarta_no_address_Santoni.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110190_Jakarta_no_address_Santoni.png",
+      "type": "photo",
+      "bytes": 349119,
+      "sha256": "8f023747ecfbb50cab80b2672fec2a35b187b2f1e14c71d488570f1d26a8c579",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110192_unknown_no_address_Selfridges_operating_profit.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110192_unknown_no_address_Selfridges_operating_profit.png",
+      "type": "photo",
+      "bytes": 544398,
+      "sha256": "99ba723901fdb7bf6582a8843c22d6ac0f43efe0ebae61a2aadda53ab07071c7",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110193_unknown_no_address_Sephora_to_expand.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110193_unknown_no_address_Sephora_to_expand.png",
+      "type": "photo",
+      "bytes": 405889,
+      "sha256": "02ad690ca6f614e1be1c9b9d68683644f04af6db94597db1dd615f14dbf74f7b",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110197_Seoul_no_address_Supreme.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110197_Seoul_no_address_Supreme.png",
+      "type": "photo",
+      "bytes": 427558,
+      "sha256": "3e2ef1ee15eb50013b266b848d08f57f9a9c0008d24ce43d64cd312e26611d91",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110199_unknown_no_address_Swiss_watch_exports.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110199_unknown_no_address_Swiss_watch_exports.png",
+      "type": "photo",
+      "bytes": 432756,
+      "sha256": "c7ba267782991ef2349c56a0aa27d6a37233b8ef9b165f0d8c872e8d08023b0b",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110205_unknown_no_address_The_Hoxton_partners.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110205_unknown_no_address_The_Hoxton_partners.png",
+      "type": "photo",
+      "bytes": 420306,
+      "sha256": "67fae8b098b92574ffc49d91486a0488d33a8bd20ab1a363c1669c7cef42ecff",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110207_Singapore_no_address_The_National_Museum.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110207_Singapore_no_address_The_National_Museum.png",
+      "type": "photo",
+      "bytes": 375512,
+      "sha256": "9f92b06f8cc40013248096148df783ed6645c03ef3d83ead57d359955f409129",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110210_unknown_no_address_The_Second_Purchase.jpg",
+      "repoPath": "news/photos/after-2026-08-29/images/10110210_unknown_no_address_The_Second_Purchase.jpg",
+      "type": "photo",
+      "bytes": 45519,
+      "sha256": "29c1410edb90beaf819abdb1e7bb6ac3e3b3be407d0f223731003c06d4e9969b",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110214_unknown_no_address_Tommy_Hilfiger.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110214_unknown_no_address_Tommy_Hilfiger.png",
+      "type": "photo",
+      "bytes": 438141,
+      "sha256": "ae1c401d7d1ebcee5fe09d8fce476f33c7672b9beb41a51e69bc99563526f3f7",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110218_unknown_no_address_UAE_based_developer.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110218_unknown_no_address_UAE_based_developer.png",
+      "type": "photo",
+      "bytes": 412607,
+      "sha256": "f791eb3d91424a04130261ff543b38f1e102572f42f0bf336d89c9f57242661f",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110220_unknown_no_address_Vacheron_Constantin.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110220_unknown_no_address_Vacheron_Constantin.png",
+      "type": "photo",
+      "bytes": 568752,
+      "sha256": "339935f6767f3ee6b011e2e2f6d121922ee295de15abd75a045f5b8087f1c575",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110224_London_no_address_Vhernier.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110224_London_no_address_Vhernier.png",
+      "type": "photo",
+      "bytes": 362797,
+      "sha256": "89f88386fe4f03209043c2474d5d47e4e0385c9aab4c4e6545090358331ecb4d",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110225_New_York_no_address_Victoria_Beckham.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110225_New_York_no_address_Victoria_Beckham.png",
+      "type": "photo",
+      "bytes": 365468,
+      "sha256": "06aaa5590de7e2a3c8c63459c728a2db95e9956acb8172c7056388dfd6197417",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110226_unknown_no_address_Victoria_Beckham_reports.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110226_unknown_no_address_Victoria_Beckham_reports.png",
+      "type": "photo",
+      "bytes": 444435,
+      "sha256": "d7bc7e264a4c2b0256a0908bf914664b72f6ca39a59b7332d1fa57483399942a",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110227_unknown_no_address_Victorias_Secret_is.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110227_unknown_no_address_Victorias_Secret_is.png",
+      "type": "photo",
+      "bytes": 369350,
+      "sha256": "803cad8adb0d042f38fc19680eabeffc26bb56c2396292dfc0ca597385137b58",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110228_unknown_no_address_Victorias_Secret_sales.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110228_unknown_no_address_Victorias_Secret_sales.png",
+      "type": "photo",
+      "bytes": 371665,
+      "sha256": "e7a1f20b2434cf20c291141f9468a2f264662e693b9844773a343f293233b45b",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110231_unknown_no_address_What_LVMH_buys.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110231_unknown_no_address_What_LVMH_buys.png",
+      "type": "photo",
+      "bytes": 358241,
+      "sha256": "64e38eda1adcfece80596ed9fa004f5283fa2e8ec242a100e576e8161f207827",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110238_unknown_no_address_Worlds_biggest_fashion.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110238_unknown_no_address_Worlds_biggest_fashion.png",
+      "type": "photo",
+      "bytes": 436994,
+      "sha256": "620cd7493e525bc07ddc79bfa0f9baaf66cf9f8775fb689d8fcfeb79aa6648b0",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10110240_Hong_Kong_no_address_ZEGNA.png",
+      "repoPath": "news/photos/after-2026-08-29/images/10110240_Hong_Kong_no_address_ZEGNA.png",
+      "type": "photo",
+      "bytes": 303193,
+      "sha256": "f2b37a5b5db0a162d552c98024688902508680aa9fb4f10183bb48d6317d6b9b",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10170001_Berlin_Munzstrae_21-23_Alo_Yoga.jpg",
+      "repoPath": "news/photos/after-2026-08-29/images/10170001_Berlin_Munzstrae_21-23_Alo_Yoga.jpg",
+      "type": "photo",
+      "bytes": 97400,
+      "sha256": "1ba08767b9ee9e4de4d3148737887b9d813f54e21eedc5534f0d7fc2496d456e",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10170002_Munchen_Brienner_Strae_9_Autry.jpg",
+      "repoPath": "news/photos/after-2026-08-29/images/10170002_Munchen_Brienner_Strae_9_Autry.jpg",
+      "type": "photo",
+      "bytes": 124081,
+      "sha256": "a5e5d811eca1690ab1148cf644a2573206b8c82a00917676d2fdc7bc9324ab04",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10170003_Victoria_Douglas_St_3147_Mayfair_Shopping_Centre_Muji.jpg",
+      "repoPath": "news/photos/after-2026-08-29/images/10170003_Victoria_Douglas_St_3147_Mayfair_Shopping_Centre_Muji.jpg",
+      "type": "photo",
+      "bytes": 271992,
+      "sha256": "7c9ada4140bc37b0aa1ba51685a338060f282910b5760fb51bcb8d274bb9f904",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10170004_Paris_Rue_Marbeuf_24_Borsalino.jpg",
+      "repoPath": "news/photos/after-2026-08-29/images/10170004_Paris_Rue_Marbeuf_24_Borsalino.jpg",
+      "type": "photo",
+      "bytes": 702738,
+      "sha256": "30a318d4e1343d0b79eac9f57312fdba37f91080918a2a8eaf6b6d9b1a52a3ce",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10170005_Costa_Mesa_Bristol_St_3333_South_Coast_Plaza_Polene.jpg",
+      "repoPath": "news/photos/after-2026-08-29/images/10170005_Costa_Mesa_Bristol_St_3333_South_Coast_Plaza_Polene.jpg",
+      "type": "photo",
+      "bytes": 104186,
+      "sha256": "de8d05ab553f2c97bad54c3c42019d2398e8a97fb2d9ccfc2129d4527f30eded",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10170006_Mailand_Via_della_Spiga_23_Balmain.jpg",
+      "repoPath": "news/photos/after-2026-08-29/images/10170006_Mailand_Via_della_Spiga_23_Balmain.jpg",
+      "type": "photo",
+      "bytes": 145225,
+      "sha256": "c80fd241a44ec7f2d27d95205317313344b60628227bc217d193331e3edf5b26",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10200001_Berlin_Munzstrae_21-23_Alo.jpg",
+      "repoPath": "news/photos/after-2026-08-29/images/10200001_Berlin_Munzstrae_21-23_Alo.jpg",
+      "type": "photo",
+      "bytes": 73879,
+      "sha256": "c0411742b556780ef5e2977c444036079d8589e004cadf6e312987e7adbcd1d1",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10200002_Hong_Kong_18_Salisbury_Road_K11_MUSEA_Alo.jpg",
+      "repoPath": "news/photos/after-2026-08-29/images/10200002_Hong_Kong_18_Salisbury_Road_K11_MUSEA_Alo.jpg",
+      "type": "photo",
+      "bytes": 73879,
+      "sha256": "c0411742b556780ef5e2977c444036079d8589e004cadf6e312987e7adbcd1d1",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10200003_New_York_575_Broadway_Zugang_Mercer_Street_Massimo_Dutti.jpg",
+      "repoPath": "news/photos/after-2026-08-29/images/10200003_New_York_575_Broadway_Zugang_Mercer_Street_Massimo_Dutti.jpg",
+      "type": "photo",
+      "bytes": 107862,
+      "sha256": "0e5a8f8fa3fa49911726e605315903bc834db37efd38d7416d2332bf6555e264",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10200004_Charleston_King_Street_Diff_Eyewear.jpg",
+      "repoPath": "news/photos/after-2026-08-29/images/10200004_Charleston_King_Street_Diff_Eyewear.jpg",
+      "type": "photo",
+      "bytes": 74368,
+      "sha256": "ad9fd828c379eca3aa051465e1c06ab7e11d42962dce65bf7d39811af4f992a5",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10200005_Venice_Abbot_Kinney_Boulevard_Arcteryx.jpg",
+      "repoPath": "news/photos/after-2026-08-29/images/10200005_Venice_Abbot_Kinney_Boulevard_Arcteryx.jpg",
+      "type": "photo",
+      "bytes": 94619,
+      "sha256": "09bf6a7dc853a66aef20bbd6482769d3760b27747626171f03a2934b138d061f",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10200006_Osaka_Hankyu_Umeda_Main_Store_8-7_Kakuda-cho_6_Etage_Schiaparelli.jpg",
+      "repoPath": "news/photos/after-2026-08-29/images/10200006_Osaka_Hankyu_Umeda_Main_Store_8-7_Kakuda-cho_6_Etage_Schiaparelli.jpg",
+      "type": "photo",
+      "bytes": 64701,
+      "sha256": "fc214f75f9aa4da7d7d18058eb6e9338dd884ee1498704f9a6fe6e68a2612055",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "10200007_London_Kings_Road_149_Byan.jpg",
+      "repoPath": "news/photos/after-2026-08-29/images/10200007_London_Kings_Road_149_Byan.jpg",
+      "type": "photo",
+      "bytes": 86422,
+      "sha256": "df2fe8449a497b3c171d44132c7ed04ed43a83ece8d2c58bc458bc239e9cf4fa",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "index.html",
+      "repoPath": "news/photos/after-2026-08-29/index.html",
+      "type": "photo",
+      "bytes": 101604,
+      "sha256": "f3c301973f544702c441d91dcd6e01bce3744e466401cfd1bd2925810a118cff",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "photo_manifest.json",
+      "repoPath": "news/photos/after-2026-08-29/photo_manifest.json",
+      "type": "photo",
+      "bytes": 108120,
+      "sha256": "9c306e8d33748d652398216e5bd99a8dbeb0958609ed4f206f952fced8b64347",
+      "source": "global-store-opening-photos-after-2026-08-29.zip"
+    },
+    {
+      "file": "global-luxury-monitoring-COMPLETE-GPS-PHOTOS-20260815.zip",
+      "repoPath": "GitHub Release asset",
+      "type": "release-asset",
+      "bytes": 819698182,
+      "sha256": "33a2d3907a33e0a6c841376c1ca13be98814f376b380a15321fc6403101145f8",
+      "source": "Shop Opening News reference task"
+    },
+    {
+      "file": "global-luxury-monitoring-WITH-PHOTOS-20260620-080623.zip",
+      "repoPath": "GitHub Release asset",
+      "type": "release-asset",
+      "bytes": 812346202,
+      "sha256": "af935d4fb71326250c9f6e9253cf80a5c1a8d5d9d77c47774ed3df6152e99147",
+      "source": "Shop Opening News reference task"
+    }
+  ]
+}

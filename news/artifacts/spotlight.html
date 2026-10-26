@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    .slide-container { 
+      width: 1280px; 
+      min-height: 720px; 
+      background: #F9F6F0; 
+      display: flex; 
+      flex-direction: column; 
+      padding: 48px;
+      position: relative;
+    }
+    .motif {
+      position: absolute;
+      top: 48px;
+      right: 48px;
+      font-family: 'Inter', sans-serif;
+      font-size: 12px;
+      letter-spacing: 0.2em;
+      color: #1C1B1A;
+    }
+    .footer {
+      position: absolute;
+      bottom: 48px;
+      left: 48px;
+      font-family: 'Inter', sans-serif;
+      font-size: 12px;
+      color: #85827D;
+      text-transform: uppercase;
+    }
+    h2 {
+      font-family: 'Playfair Display', serif;
+      font-size: 32px;
+      color: #1C1B1A;
+      margin-bottom: 48px;
+      margin-top: 24px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 24px;
+      flex: 1;
+    }
+    .spotlight-card {
+      background: #EDE9DF;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+    }
+    .img-box {
+      width: 100%;
+      height: 220px;
+      background: #DCD8CF;
+      overflow: hidden;
+    }
+    .img-box img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    .card-content {
+      padding: 20px;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+    }
+    .card-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 20px;
+      color: #1C1B1A;
+      margin-bottom: 8px;
+    }
+    .card-meta {
+      font-family: 'Inter', sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      color: #B87333;
+      margin-bottom: 12px;
+      text-transform: uppercase;
+    }
+    .card-text {
+      font-family: 'Inter', sans-serif;
+      font-size: 14px;
+      color: #4A4846;
+      line-height: 1.45;
+    }
+  </style>
+</head>
+<body>
+  <div class="slide-container">
+    <div class="motif">THE LOCATION GROUP</div>
+    <h2>Aktuelle strategische Openings</h2>
+    <div class="grid">
+      <div class="spotlight-card">
+        <div class="img-box"><img src="/home/ubuntu/Downloads/global-store-opening-photos-after-2026-08-29/images/00990024_London_Bond_Street_and_Conduit_Street_The_St_Regis.png" alt="St. Regis London"></div>
+        <div class="card-content">
+          <div class="card-meta">London · Bond Street</div>
+          <div class="card-title">The St. Regis London</div>
+          <p class="card-text">Debüt der St. Regis Hotels in Mayfair an einem der begehrtesten Adressen Londons nach umfassender Renovierung.</p>
+        </div>
+      </div>
+      <div class="spotlight-card">
+        <div class="img-box"><img src="/home/ubuntu/Downloads/global-store-opening-photos-after-2026-08-29/images/00991376_Tokyo_World_Trade_Center_Building_Hamamatsucho_district_Raffles.png" alt="Raffles Tokyo"></div>
+        <div class="card-content">
+          <div class="card-meta">Tokio · Hamamatsucho</div>
+          <div class="card-title">Raffles Tokyo</div>
+          <p class="card-text">Strategische Eröffnung im World Trade Center Building, stärkt die Präsenz von Raffles im asiatischen Luxusmarkt.</p>
+        </div>
+      </div>
+      <div class="spotlight-card">
+        <div class="img-box"><img src="/home/ubuntu/Downloads/global-store-opening-photos-after-2026-08-29/images/00991353_Jakarta_Sudirman_Street_Andaz.png" alt="Andaz Jakarta"></div>
+        <div class="card-content">
+          <div class="card-meta">Jakarta · Sudirman</div>
+          <div class="card-title">Andaz Jakarta</div>
+          <p class="card-text">Neuer Andaz-Standort in der prestigeträchtigen Sudirman Street, markiert einen weiteren Expansionsschritt in Indonesien.</p>
+        </div>
+      </div>
+    </div>
+    <div class="footer">Selection of Verified Openings · Media Coverage: 50%</div>
+  </div>
+</body>
+</html>

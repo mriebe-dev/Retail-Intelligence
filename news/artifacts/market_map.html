@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@3.9.1"></script>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    .slide-container { 
+      width: 1280px; 
+      min-height: 720px; 
+      background: #F9F6F0; 
+      display: flex; 
+      flex-direction: column; 
+      padding: 48px;
+      position: relative;
+    }
+    .motif {
+      position: absolute;
+      top: 48px;
+      right: 48px;
+      font-family: 'Inter', sans-serif;
+      font-size: 12px;
+      letter-spacing: 0.2em;
+      color: #1C1B1A;
+    }
+    .footer {
+      position: absolute;
+      bottom: 48px;
+      left: 48px;
+      font-family: 'Inter', sans-serif;
+      font-size: 12px;
+      color: #85827D;
+      text-transform: uppercase;
+    }
+    h2 {
+      font-family: 'Playfair Display', serif;
+      font-size: 32px;
+      color: #1C1B1A;
+      margin-bottom: 48px;
+      margin-top: 24px;
+    }
+    .content-grid {
+      display: grid;
+      grid-template-columns: 1.5fr 1fr;
+      gap: 64px;
+      flex: 1;
+    }
+    .chart-box {
+      height: 450px;
+    }
+    .verdicts {
+      display: flex;
+      flex-direction: column;
+      gap: 32px;
+    }
+    .verdict-item {
+      border-left: 2px solid #B87333;
+      padding-left: 24px;
+    }
+    .verdict-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 20px;
+      color: #1C1B1A;
+      margin-bottom: 8px;
+    }
+    .verdict-text {
+      font-family: 'Inter', sans-serif;
+      font-size: 16px;
+      color: #4A4846;
+      line-height: 1.4;
+    }
+  </style>
+</head>
+<body>
+  <div class="slide-container">
+    <div class="motif">THE LOCATION GROUP</div>
+    <h2>Globale Schwerpunkte</h2>
+    <div class="content-grid">
+      <div class="chart-box">
+        <canvas id="cityChart"></canvas>
+      </div>
+      <div class="verdicts">
+        <div class="verdict-item">
+          <div class="verdict-title">Zentren der Expansion</div>
+          <p class="verdict-text">New York, Paris und London führen das Ranking mit jeweils 16-17 Openings an. Die Big Cities bleiben Primärziele.</p>
+        </div>
+        <div class="verdict-item">
+          <div class="verdict-title">Hubs in Asien</div>
+          <p class="verdict-text">Hongkong, Mailand, Tokio und Singapur zeigen eine hohe Dichte (13-15 Openings), was auf eine Erholung der Fernost-Märkte hindeutet.</p>
+        </div>
+        <div class="verdict-item">
+          <div class="verdict-title">Fokus Schweiz</div>
+          <p class="verdict-text">Zürich, Genf und Luzern verzeichnen jeweils 12 Openings. Dies unterstreicht die Stabilität des Schweizer Retail-Marktes.</p>
+        </div>
+      </div>
+    </div>
+    <div class="footer">Source: Opening Analytics · Geographical Distribution Oct 2026</div>
+    <script>
+      const ctx = document.getElementById('cityChart').getContext('2d');
+      new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels: ['New York', 'Paris', 'London', 'Milan', 'Hong Kong', 'Singapore', 'Tokyo', 'Geneva', 'Zurich', 'Lucerne'],
+          datasets: [{
+            label: 'Store Openings',
+            data: [17, 16, 16, 15, 15, 13, 13, 12, 12, 12],
+            backgroundColor: '#B87333',
+            barThickness: 24
+          }]
+        },
+        options: {
+          indexAxis: 'y',
+          animation: false,
+          plugins: { legend: { display: false } },
+          scales: {
+            x: { grid: { display: false }, ticks: { font: { family: 'Inter', size: 12 } } },
+            y: { grid: { display: false }, ticks: { font: { family: 'Inter', size: 14 }, color: '#1C1B1A' } }
+          }
+        }
+      });
+    </script>
+  </div>
+</body>
+</html>

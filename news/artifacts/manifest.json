@@ -1,0 +1,46 @@
+{
+  "exportedAt": "2026-08-15T09:28:05.035Z",
+  "database": "ZaCeakJTUHAt8mssUX496t",
+  "tables": [
+    {
+      "name": "__drizzle_migrations",
+      "rowCount": 6,
+      "dataFile": "__drizzle_migrations.json"
+    },
+    {
+      "name": "investment_deals",
+      "rowCount": 0,
+      "dataFile": "investment_deals.json"
+    },
+    {
+      "name": "luxury_news",
+      "rowCount": 16889,
+      "dataFile": "luxury_news.json"
+    },
+    {
+      "name": "luxury_stores",
+      "rowCount": 346,
+      "dataFile": "luxury_stores.json"
+    },
+    {
+      "name": "store_photos",
+      "rowCount": 0,
+      "dataFile": "store_photos.json"
+    },
+    {
+      "name": "structured_import_items",
+      "rowCount": 5906,
+      "dataFile": "structured_import_items.json"
+    },
+    {
+      "name": "structured_import_jobs",
+      "rowCount": 1,
+      "dataFile": "structured_import_jobs.json"
+    },
+    {
+      "name": "users",
+      "rowCount": 1,
+      "dataFile": "users.json"
+    }
+  ]
+}

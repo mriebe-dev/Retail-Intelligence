@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    .slide-container { 
+      width: 1280px; 
+      min-height: 720px; 
+      background: #F9F6F0; 
+      display: flex; 
+      flex-direction: column; 
+      padding: 48px;
+      position: relative;
+    }
+    .motif {
+      position: absolute;
+      top: 48px;
+      right: 48px;
+      font-family: 'Inter', sans-serif;
+      font-size: 12px;
+      letter-spacing: 0.2em;
+      color: #1C1B1A;
+    }
+    .footer {
+      position: absolute;
+      bottom: 48px;
+      left: 48px;
+      font-family: 'Inter', sans-serif;
+      font-size: 12px;
+      color: #85827D;
+      text-transform: uppercase;
+    }
+    h2 {
+      font-family: 'Playfair Display', serif;
+      font-size: 32px;
+      color: #1C1B1A;
+      margin-bottom: 48px;
+      margin-top: 24px;
+    }
+    .content-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 64px;
+      flex: 1;
+    }
+    .section-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 24px;
+      color: #B87333;
+      margin-bottom: 24px;
+      border-bottom: 1px solid #B87333;
+      padding-bottom: 12px;
+    }
+    .list {
+      list-style: none;
+    }
+    .list-item {
+      font-family: 'Inter', sans-serif;
+      font-size: 18px;
+      color: #4A4846;
+      margin-bottom: 20px;
+      display: flex;
+      align-items: flex-start;
+    }
+    .list-item::before {
+      content: "—";
+      margin-right: 12px;
+      color: #B87333;
+    }
+    .contact-info {
+      font-family: 'Inter', sans-serif;
+      font-size: 18px;
+      color: #1C1B1A;
+      line-height: 1.6;
+    }
+    .contact-info b {
+      color: #B87333;
+      display: block;
+      margin-bottom: 8px;
+      text-transform: uppercase;
+      font-size: 14px;
+      letter-spacing: 0.05em;
+    }
+  </style>
+</head>
+<body>
+  <div class="slide-container">
+    <div class="motif">THE LOCATION GROUP</div>
+    <h2>Nächste Schritte & Kontakt</h2>
+    <div class="content-grid">
+      <div>
+        <div class="section-title">Handlungsempfehlungen</div>
+        <ul class="list">
+          <li class="list-item">Fokussierung auf Hausnummern-Verifizierung der Top-Märkte (NYC, Paris, London) zur Präzisierung des Momentum-Scores.</li>
+          <li class="list-item">Proaktives Einholen von Originalfotos für die 125 Standorte ohne aktuelle Bildreferenz (Workflow-Priorität).</li>
+          <li class="list-item">Überwachung der Expansionswelle in Asien, insbesondere Hongkong und Tokio, für Q1 2027 Prognosen.</li>
+        </ul>
+      </div>
+      <div>
+        <div class="section-title">Kontakt</div>
+        <div class="contact-info">
+          <b>The Prime Location Group</b>
+          The Location Group AG<br>
+          Bahnhofstrasse 108<br>
+          8001 Zürich, Schweiz<br><br>
+          Telefon: +41 44 225 95 00<br>
+          E-Mail: info@location.ch<br>
+          Web: www.location.ch
+        </div>
+      </div>
+    </div>
+    <div class="footer">Confidential · Management Report · 2026</div>
+  </div>
+</body>
+</html>

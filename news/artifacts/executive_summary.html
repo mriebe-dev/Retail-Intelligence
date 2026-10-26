@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    .slide-container { 
+      width: 1280px; 
+      min-height: 720px; 
+      background: #F9F6F0; 
+      display: flex; 
+      flex-direction: column; 
+      padding: 48px;
+      position: relative;
+    }
+    .motif {
+      position: absolute;
+      top: 48px;
+      right: 48px;
+      font-family: 'Inter', sans-serif;
+      font-size: 12px;
+      letter-spacing: 0.2em;
+      color: #1C1B1A;
+    }
+    .footer {
+      position: absolute;
+      bottom: 48px;
+      left: 48px;
+      font-family: 'Inter', sans-serif;
+      font-size: 12px;
+      color: #85827D;
+      text-transform: uppercase;
+    }
+    h2 {
+      font-family: 'Playfair Display', serif;
+      font-size: 32px;
+      color: #1C1B1A;
+      margin-bottom: 48px;
+      margin-top: 24px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 32px;
+      flex: 1;
+    }
+    .kpi-card {
+      border-top: 1px solid #B87333;
+      padding-top: 24px;
+      display: flex;
+      flex-direction: column;
+    }
+    .kpi-value {
+      font-family: 'Playfair Display', serif;
+      font-size: 48px;
+      color: #B87333;
+      margin-bottom: 12px;
+    }
+    .kpi-label {
+      font-family: 'Inter', sans-serif;
+      font-size: 18px;
+      font-weight: 700;
+      color: #1C1B1A;
+      margin-bottom: 16px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .kpi-text {
+      font-family: 'Inter', sans-serif;
+      font-size: 16px;
+      line-height: 1.5;
+      color: #4A4846;
+    }
+  </style>
+</head>
+<body>
+  <div class="slide-container">
+    <div class="motif">THE LOCATION GROUP</div>
+    <h2>Management Summary</h2>
+    <div class="grid">
+      <div class="kpi-card">
+        <div class="kpi-value">252</div>
+        <div class="kpi-label">Openings</div>
+        <p class="kpi-text">Signifikante Anzahl an Neueröffnungen im Berichtszeitraum, getrieben durch globale Expansion der Luxus- und Premiummarken.</p>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-value">55%</div>
+        <div class="kpi-label">GPS-Abdeckung</div>
+        <p class="kpi-text">139 von 252 Standorten sind geocodiert. Der Fokus liegt auf der Erhöhung der Hausnummern-Präzision für Momentum-Analysen.</p>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-value">8</div>
+        <div class="kpi-label">FU-Updates</div>
+        <p class="kpi-text">Neueste FashionUnited-Openings (u.a. Alo, Massimo Dutti) wurden adressgenau integriert und verifiziert.</p>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-value">127</div>
+        <div class="kpi-label">Media Assets</div>
+        <p class="kpi-text">Über 50% der Openings sind mit Original-Bildmaterial hinterlegt, was eine visuelle Validierung der Lagen ermöglicht.</p>
+      </div>
+    </div>
+    <div class="footer">Source: Global Luxury Monitoring Portal · Period: > 30.08.2026</div>
+  </div>
+</body>
+</html>
