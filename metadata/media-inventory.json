@@ -1,0 +1,23 @@
+{
+  "format": "luxury-retail-intelligence-media-inventory/v1",
+  "generatedAt": "2026-10-26T19:28:03.076Z",
+  "totalReferences": 648,
+  "uniqueUrls": 648,
+  "referencesByTable": {
+    "stores": 82,
+    "storePhotos": 67,
+    "streetPhotos": 499,
+    "properties": 0,
+    "propertyPhotos": 0
+  },
+  "hosts": [
+    {
+      "host": "files.manuscdn.com",
+      "count": 499
+    },
+    {
+      "host": "d2xsxph8kpxj0f.cloudfront.net",
+      "count": 149
+    }
+  ]
+}
